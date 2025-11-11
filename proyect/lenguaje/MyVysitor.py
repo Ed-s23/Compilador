@@ -1,5 +1,5 @@
-from GrammarVisitor import GrammarVisitor
-from GrammarParser import GrammarParser
+from .GrammarVisitor import GrammarVisitor
+from .GrammarParser import GrammarParser
 
 class MyVistor(GrammarVisitor):
     def __init__(self):

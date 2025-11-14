@@ -1,4 +1,4 @@
-// Generated from /home/eduardo/Documents/LenguajesAutomatas/Examen/Compilador/lenguaje/Grammar.g by ANTLR 4.13.1
+// Generated from /home/eduardo/Documents/LenguajesAutomatas/Examen/Compilador/Inicio/api/lenguaje/Grammar.g by ANTLR 4.13.1
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;

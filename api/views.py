@@ -28,7 +28,7 @@ def main(request):
     #! De Json obtenemos el que tenga 'text'
     code= data.get('text','')
     #! Ejecucion de las instrucciones con el metodo que definimos
-    output=run_code()
+    output=run_code(code)
     #! De una respuesta de tipo JSON 
     return Response(
         {"output":output},

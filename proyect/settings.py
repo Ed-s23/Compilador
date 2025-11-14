@@ -28,8 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1:5173',
-    'compilador-z289.onrender.com',
-    #TODo :añadir parte de render
+    'compilador-z289.onrender.com'
+    
 ]
 
 
